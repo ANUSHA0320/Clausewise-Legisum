@@ -1,4 +1,4 @@
-transformers,
-spacy,
-streamlit,
+transformers
+spacy
+streamlit
 gtts
