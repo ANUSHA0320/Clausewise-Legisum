@@ -2,3 +2,4 @@ transformers
 spacy
 streamlit
 gtts
+pytorch
