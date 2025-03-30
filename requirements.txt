@@ -2,4 +2,5 @@ transformers
 spacy
 streamlit
 gtts
-pytorch
+torch
+sentencepiece  
